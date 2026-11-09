@@ -1,0 +1,14 @@
+{
+  "name": "Kira-AI",
+  "url": "https://getkira.com/black-friday?promo=BF-DIRECTORY",
+  "description": "Voice-interviews every applicant and hands you the evidence, quoted with timestamps",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "50% off Starter and Professional for 12 months with code BF-DIRECTORY",
+  "code": "BF-DIRECTORY",
+  "pricing": "subscription",
+  "price": { "regular": 149, "sale": 74, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-02"
+}
